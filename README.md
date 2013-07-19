@@ -51,5 +51,5 @@ Browse the builds [here](https://travis-ci.org/Zorbash/hasEvent/builds/)
 
 
 ## Licence
-Copyright (c) 2013 Dimitris Zorbash
+Copyright (c) 2013 Dimitris Zorbas
 Licensed under the MIT license.
